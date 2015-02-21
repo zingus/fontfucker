@@ -1,0 +1,93 @@
+Open Sans     #futura-like #free
+Didact Gothic #futura-like #free
+Caviar Dreams #futura-like #free
+Futura        #geometric #thin
+> Designed in 1927 by Paul Renner.
+> Renner was not associated with the Bauhaus, he shared many of
+> its idioms and believed that a modern typeface should express
+> modern models.
+> Used extensively by IKEA (until 2010), Supreme, Party City,
+> Volkswagen, Royal Dutch Shell, Crayola and HP.
+> Wes Anderson is also fond of the font and has used it in all of his films.
+> Futura was also Stanley Kubrick's favorite typeface.
+*Geometric #sans
+> Based on geometric shapes like near-perfect
+> circle and square.
+> - Optically circular "O" letters.
+> - Simple construction of the lowercase letter "a".
+> Strongly associated with the Bauhaus art school (1919-1933)
+*Grotesque  #sans
+Helvetica  #sans
+Helvetiker #helvetica-like #free
+Arial      #helvetica-like
+Cooper Black #OldStyle #heavy #headline
+> Made in 1922 by Oswald Bruce Cooper.
+> "A font for far-sighted printers with near-sighted customers"
+*OldStyle #serif
+> Old style or humanist typefaces date back to 1465.
+> Low Line Contrast. Angled Stress.
+Bembo #garalde
+Caslon  #garalde
+Galliard #garalde
+Garamond #garalde
+Goudy Old Style  #garalde
+Granjon  #garalde
+Janson #garalde
+Palatino #garalde
+Renard #garalde
+Sabon #garalde
+VandenKeere #garalde
+*Garalde #OldStyle
+*Venetian #OldStyle
+Adobe Jenson #venetian
+Arno #venetian
+Berkeley Old Style #venetian
+Centaur #venetian
+Cloister #venetian
+Fairfield #venetian
+Legacy #venetian
+Trinité  #venetian
+*Didone #serif
+*Transitional #serif
+> Stress is more likely to be vertical.
+> The ends of many strokes are marked not by blunt or angled serifs but by ball terminals.
+*Baroque #transitional
+*Slab #serif
+*Modern #didone
+*Egyptian #slab
+Clarendon #slab
+Rockwell  #slab
+Courier   #slab
+Bodoni    #didone
+Didot     #didone
+Walbaum   #didone
+Computer Modern #didone
+Windsor #oldstyle
+> Created in 1905.
+> Beginning with 1977's Annie Hall, almost all the title sequences
+> and credits of Woody Allen's films use sparse, white Windsor Light
+> Condensed over a black background.
+Times New Roman #transitional
+> Made in 1932
+Bookman #transitional
+Century #transitional
+Georgia #transitional 
+Plantin #transitional
+Grease #cooper-black-like #free #fancy
+Subway #cooper-black-like #free
+Manual Cookie Bucket #cooper-black-like #sketch #grunge
+Sketch Block #slab #heavy #sketch
+> found on http://di-side.com/di-side/50-black-and-heavy-extra-bold-fonts-logos-headlines/
+Biko #futura-like #heavy #free
+Kilogram #artdeco #heavy #title #free
+*ArtDeco #geometric
+Alpha Ruler #grunge #technical #fancy #thin #free
+Ziamimi #heavy #geometric #title #free
+> found on http://www.responsivedesignblog.com/the-70-best-free-fonts/
+Lovelo #fancy #heavy #free #geometric
+Museo Sans 500 #geometric #title #heavy #free #impact-like
+Museo Slab 500 #geometric #slab #heavy
+Bevan #slab #heavy #impact-like
+> Vernon Adams reimagining of a traditional 1930s slab serif by Heinrich Jost
+Sketch Block #slab
+Winslow #windsor-like
